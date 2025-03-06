@@ -10,5 +10,6 @@
         "xticks",
         "ylabel",
         "yticks"
-    ]
+    ],
+    "git.ignoreLimitWarning": true
 }

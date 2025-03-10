@@ -6,6 +6,8 @@
         "otypes",
         "skimage",
         "suptitle",
+        "vect",
+        "Vectorizer",
         "xlabel",
         "xticks",
         "ylabel",
